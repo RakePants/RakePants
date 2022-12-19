@@ -1,4 +1,4 @@
-Hey, I'm Artyom, 👋
+Hey, I'm Artyom 👋,  
 a **Machine Learning Engineer** based in Perm, Russia.
 
 - 🎓 Pursuing a bachelor's degree at Perm State University
