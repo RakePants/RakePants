@@ -5,5 +5,6 @@ a **Machine Learning Engineer** based in Perm, Russia.
 - 🤖 Developing **Nerdless**, a chat bot for Telegram that implements NLP 
 - ⚙️ I'm good at:  `Python`, `PyTorch`, `NumPy`, `Matplotlib`
 - 🌱 Learning `Docker` and NLP
+- 📚 Reading "Programming PyTorch for Deep Learning" by Ian Pointer
 - 💼 Open for a job
 - 📫 Get to know me: https://www.linkedin.com/in/artyom-eryomkin/?locale=en_US
