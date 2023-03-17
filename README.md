@@ -3,7 +3,7 @@ a **Machine Learning Engineer** based in Perm, Russia.
 
 - 🎓 Pursuing a **bachelor's** degree at *Perm State University*
 - 🤖 Developing **Nerdless**, an AI chat bot for Telegram
-- ⚙️ I use `Python`, `PyTorch`, `NumPy`, `transformers`
+- ⚙️ I use `Python`, `PyTorch`, `transformers`, `Numpy`, `Pandas`, `matplotlib`, `SQL`, `C++`
 - 🌱 Learning `transformers`, NLP and Probability theory
 - 📚 Reading "Natural Language Processing with PyTorch" by Delip Rao & Brian McMahan
 - 💼 Open for a job
