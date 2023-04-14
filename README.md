@@ -1,7 +1,7 @@
 Hey, I'm Artyom 👋,  
 a **Machine Learning Engineer** based in Perm, Russia.
 
-- 🎓 Pursuing a **bachelor's** degree at *Perm State University*
+- 🎓 Pursuing a **bachelor's** degree in **Applied Mathematics and Computer Science** at *Perm State University*
 - 🤖 Developing **Nerdless**, an AI chat bot for Telegram
 - ⚙️ I use `Python`, `PyTorch`, `transformers`, `Numpy`, `Pandas`, `matplotlib`, `SQL`, `C++`
 - 🌱 Learning `transformers`, NLP and Probability theory
