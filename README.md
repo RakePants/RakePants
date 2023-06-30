@@ -1,5 +1,5 @@
 Hey, I'm Artyom 👋,  
-a **Machine Learning Engineer** based in Perm, Russia.
+a **Machine Learning Engineer** specialising in **NLP** based in Perm, Russia.
 
 - 💼 Working on AI projects at **HappyAI**
 - 🎓 Pursuing a **bachelor's** degree in **Applied Mathematics and Computer Science** at *Perm State University*
