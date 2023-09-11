@@ -1,4 +1,4 @@
-![image](https://github.com/RakePants/RakePants/assets/43377589/ba86228f-cec2-4bd2-8516-9dffd5c3eefa)![image](https://github.com/RakePants/RakePants/assets/43377589/cb399310-a58f-4594-a9e4-0d1a8e333f8e)Hey, I'm Artyom 👋,  
+Hey, I'm Artyom 👋,  
 a **Machine Learning Engineer** specialising in **NLP** based in Perm, Russia.
 
 - 💼 Working on custom AI solutions at **HappyAI**
