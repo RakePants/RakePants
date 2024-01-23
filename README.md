@@ -7,7 +7,7 @@ a **Deep Learning Engineer** specialising in **NLP** based in Perm, Russia.
 - 👾 Embedding AI using `FastAPI`, `SQL`, `Docker`, `Aiogram`, `discord.py` and `Streamlit` 
 - ✍️ Practicing `PyTorch`, `Scikit-learn`, `numpy`, `pandas` and `matplotlib`
 - 🌱 Studying NLP, Deep Learning, statistics and algorithms
-- 📚 Reading "Understanding Deep Learning" by Simon J. D. Prince
+- 📚 Reading "Speech and Language Processing" (3rd ed. draft) by Dan Jurafsky and James H. Martin 
 - 📫 Get to know me: https://www.linkedin.com/in/artyom-eryomkin/?locale=en_US
 - 📱 Contact me:
   - https://t.me/a_eryomkin
