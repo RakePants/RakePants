@@ -8,7 +8,7 @@ an **AI Developer** specialising in **NLP** based in Perm, Russia.
 - ✍️ Practicing `PyTorch`, `numpy`, `pandas` and `matplotlib`
 - 🌱 Studying NLP, Deep Learning, `Python`, `asyncio` and software testing
 - 📚 Reading *"Speech and Language Processing"* (3rd ed. draft) by Dan Jurafsky and James H. Martin 
-- 🙍🏼‍♂️ Get to know me: https://www.linkedin.com/in/artyom-eryomkin/?locale=en_US
+- 🙍🏼‍♂️ Get to know me on [LinkedIn](https://www.linkedin.com/in/artyom-eryomkin/?locale=en_US)!
 - 📫 Contact me:
-  - https://t.me/a_eryomkin
   - eryomkin.artyom2016@gmail.com
+  - https://t.me/a_eryomkin
