@@ -1,12 +1,12 @@
 Hey, I'm Artyom 👋,  
-a **Deep Learning Engineer** specialising in **NLP** based in Perm, Russia.
+an **AI Developer** specialising in **NLP** based in Perm, Russia.
 
-- 💼 Working on custom AI solutions at **HappyAI**
+- 💼 Open for a job opportunity! Check out [my resume](https://drive.google.com/file/d/129LsOxzuLFBpQAXZQd5-lCRfgQWqHRMl/view?usp=sharing)
 - 🎓 Pursuing a bachelor's degree in **Applied Mathematics and Computer Science** at Perm State University
-- ⚙️ Doing **Generative & Conversational AI** with `Python`, `Langchain`, `Rasa` and `QLoRA`
-- 👾 Embedding AI using `FastAPI`, `SQL`, `Docker`, `Aiogram`, `discord.py` and `Streamlit` 
-- ✍️ Practicing `PyTorch`, `Scikit-learn`, `numpy`, `pandas` and `matplotlib`
-- 🌱 Studying NLP, Deep Learning, Docker and Python
+- ⚙️ Doing **Generative & Conversational AI** with `Python`, `Langchain`, vector and graph databases
+- 👾 Embedding AI using `FastAPI`, `Aiogram`, `discord.py` and `Streamlit` 
+- ✍️ Practicing `PyTorch`, `numpy`, `pandas` and `matplotlib`
+- 🌱 Studying NLP, Deep Learning, `Python`, `asyncio` and software testing
 - 📚 Reading *"Speech and Language Processing"* (3rd ed. draft) by Dan Jurafsky and James H. Martin 
 - 🙍🏼‍♂️ Get to know me: https://www.linkedin.com/in/artyom-eryomkin/?locale=en_US
 - 📫 Contact me:
