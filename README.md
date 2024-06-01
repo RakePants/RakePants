@@ -1,5 +1,5 @@
 Hey, I'm Artyom 👋,  
-an **Data Scientist** specialising in **NLP** based in Perm, Russia.
+an **NLP Engineer** based in Perm, Russia.
 - 🎓 Pursuing a bachelor's degree in Applied Mathematics and Computer Science at Perm State University
 - ⚙️ Doing Generative & Conversational AI with `Python`, `Langchain` and `transformers`
 - 👾 Embedding LLMs using `FastAPI`, `Aiogram`, `discord.py` and `Streamlit`
