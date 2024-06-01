@@ -1,11 +1,12 @@
 Hey, I'm Artyom 👋,  
-an **AI Developer** specialising in **NLP** based in Perm, Russia.
+an **Data Scientist** specialising in **NLP** based in Perm, Russia.
 - 🎓 Pursuing a bachelor's degree in Applied Mathematics and Computer Science at Perm State University
-- ⚙️ Doing **Generative & Conversational AI** with `Python`, `Langchain`, vector and graph databases
-- 👾 Embedding AI using `FastAPI`, `Aiogram`, `discord.py` and `Streamlit` 
-- ✍️ Practicing `asyncio`, `numpy`, `pandas` and `matplotlib`
-- 🌱 Studying NLP, Deep Learning, `Python` and `PyTorch`
-- 📚 Reading *Natural Language Processing with Transformers* by Lewis Tunstall, Leandro von Werra & Thomas Wolf
+- ⚙️ Doing Generative & Conversational AI with `Python`, `Langchain` and `transformers`
+- 👾 Embedding LLMs using `FastAPI`, `Aiogram`, `discord.py` and `Streamlit`
+- ✍️ Practicing `asyncio`, `numpy`, `pandas` and `Docker`
+- 📊 Representing data with relational, document, vector and graph databases
+- 🌱 Studying NLP, Deep Learning and architecture patterns
+- 📚 Reading *Architecture Patterns with Python* by by Harry Percival & Bob Gregory 
 - 💼 Open for a job opportunity. Check out [my resume](https://drive.google.com/file/d/129LsOxzuLFBpQAXZQd5-lCRfgQWqHRMl/view?usp=sharing)!
 - 🙍🏼‍♂️ Get to know me on [LinkedIn](https://www.linkedin.com/in/artyom-eryomkin/)!
 - 📫 Contact me:
