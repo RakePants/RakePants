@@ -9,6 +9,4 @@ an **NLP Engineer** based in Perm, Russia.
 - 📚 Reading *Architecture Patterns with Python* by Harry Percival & Bob Gregory 
 - 💼 Open for a job opportunity. Check out [my resume](https://drive.google.com/file/d/129LsOxzuLFBpQAXZQd5-lCRfgQWqHRMl/view?usp=sharing)!
 - 🙍🏼‍♂️ Get to know me on [LinkedIn](https://www.linkedin.com/in/artyom-eryomkin/)!
-- 📫 Contact me:
-  - [📧 Email](eryomkin.artyom2016@gmail.com)
-  - [💬 Telegram](https://t.me/a_eryomkin)
+- 📫 Contact me via [📧 email](eryomkin.artyom2016@gmail.com) or on [💬 Telegram](https://t.me/a_eryomkin)
