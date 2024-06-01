@@ -10,5 +10,5 @@ an **NLP Engineer** based in Perm, Russia.
 - 💼 Open for a job opportunity. Check out [my resume](https://drive.google.com/file/d/129LsOxzuLFBpQAXZQd5-lCRfgQWqHRMl/view?usp=sharing)!
 - 🙍🏼‍♂️ Get to know me on [LinkedIn](https://www.linkedin.com/in/artyom-eryomkin/)!
 - 📫 Contact me:
-  - eryomkin.artyom2016@gmail.com
-  - https://t.me/a_eryomkin
+  - [📧 Email](eryomkin.artyom2016@gmail.com)
+  - [💬 Telegram](https://t.me/a_eryomkin)
