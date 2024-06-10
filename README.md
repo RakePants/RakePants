@@ -2,8 +2,8 @@ Hey, I'm Artyom 👋,
 an **NLP Engineer** based in Perm, Russia.
 - 🎓 Pursuing a bachelor's degree in Applied Mathematics and Computer Science at Perm State University
 - ⚙️ Doing Generative & Conversational AI with `Python`, `Langchain` and `transformers`
-- 👾 Embedding LLMs using `FastAPI`, `Aiogram`, `discord.py` and `Streamlit`
-- ✍️ Practicing `asyncio`, `numpy`, `pandas` and `Docker`
+- 👾 Embedding LLMs using `FastAPI`, `Aiogram`, `discord.py`, `Streamlit` and `Docker`
+- ✍️ Practicing `PyTorch`, `numpy` and `pandas` 
 - 📊 Representing data with relational, document, vector and graph databases
 - 🌱 Studying NLP, Deep Learning and architecture patterns
 - 📚 Reading *Architecture Patterns with Python* by Harry Percival & Bob Gregory 
