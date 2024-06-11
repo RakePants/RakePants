@@ -5,6 +5,7 @@ an **NLP Engineer** based in Perm, Russia.
 - 👾 Embedding LLMs using `FastAPI`, `Aiogram`, `discord.py`, `Streamlit` and `Docker`
 - ✍️ Practicing `PyTorch`, `numpy` and `pandas` 
 - 📊 Representing data with relational, document, vector and graph databases
+- 🚀 Applying innovative solutions to hackathon challenges
 - 🌱 Studying NLP, Deep Learning and architecture patterns
 - 📚 Reading *Architecture Patterns with Python* by Harry Percival & Bob Gregory 
 - 💼 Open for a job opportunity! Text me for my resume
