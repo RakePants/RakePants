@@ -8,6 +8,5 @@ an **NLP Engineer** based in Perm, Russia.
 - 🚀 Applying innovative solutions to hackathon challenges
 - 🌱 Studying NLP, Deep Learning and architecture patterns
 - 📚 Reading *Build a Large Language Model (From Scratch)* by Sebastian Raschka
-- 💼 Open for a job opportunity! Text me for my resume
 - 🙍🏼‍♂️ Get to know me on [LinkedIn](https://www.linkedin.com/in/artyom-eryomkin/)!
 - 📫 Contact me via [📧 email](mailto:eryomkin.artyom2016@gmail.com) or on [💬 Telegram](https://t.me/a_eryomkin)
