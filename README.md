@@ -1,6 +1,6 @@
 Hey, I'm Artyom 👋,  
 an **NLP Engineer** based in Perm, Russia.
-- 💼 Developing NLP solutions to enhance e-commerce experiences at **Ozon**
+- 💼 Developing NLP solutions to enhance the e-commerce experience at **Ozon**
 - 🎓 Pursuing a bachelor's degree in *Applied Mathematics and Computer Science* at Perm State University
 - ⚙️ Doing Generative & Conversational AI with `Python`, `transformers` and `Langchain` 
 - 👾 Integrating ML technologies into distributed systems with `FastAPI`, `grpcio` and `Apache Kafka`
