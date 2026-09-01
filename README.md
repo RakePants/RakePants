@@ -7,5 +7,6 @@ an **NLP Engineer** based in Perm, Russia.
 - ✍️ Sharpening skills in `PyTorch`, `pandas` and `Kubernetes`
 - 🌱 Mastering the art of system design
 - 📚 Reading *Building Microservices* by Sam Newman
+- 🎓 Graduated Perm State University '26
 - 🙍🏼‍♂️ Get to know me on [LinkedIn](https://www.linkedin.com/in/artyom-eryomkin/)!
 - 📫 Contact me via [📧 email](mailto:eryomkin.artyom2016@gmail.com) or on [💬 Telegram](https://t.me/a_eryomkin)
