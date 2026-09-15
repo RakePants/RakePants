@@ -4,7 +4,7 @@ an **NLP Engineer** based in Perm, Russia.
 - ⚙️ Doing Generative & Conversational AI with `Python` and `transformers`
 - 👾 Integrating ML technologies into distributed systems with `FastAPI`, `grpcio` and `Apache Kafka`
 - 🚀 Applying innovative solutions to hackathon challenges
-- ✍️ Sharpening skills in `PyTorch`, `pandas` and `Kubernetes`
+- ✍️ Sharpening my skills in `numpy` and maths
 - 🌱 Mastering the art of system design
 - 📚 Reading *Building Microservices* by Sam Newman
 - 🎓 Graduated Perm State University '26
