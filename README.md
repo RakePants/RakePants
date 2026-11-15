@@ -13,4 +13,4 @@ a **Senior Data Scientist (NLP) at Ozon Tech**, based in Perm, Russia.
 
 ***
 
-```Python``` ```SQL``` ```PyTorch``` ```transformers``` ```scikit-learn``` ```fastText``` ```NumPy``` ```pandas``` ```Google ADK``` ```LangChain``` ```vLLM``` ```Triton Inference Server``` ```FAISS``` ```Qdrant``` ```FastAPI``` ```gRPC``` ```asyncio``` ```Pydantic``` ```SciPy``` ```NetworkX``` ```joblib``` ```aiogram``` ```Kafka``` ```Redis``` ```PostgreSQL``` ```ClickHouse``` ```SQLAlchemy``` ```Docker``` ```Git``` ```CI/CD``` ```Prometheus``` ```Grafana```
+```Python``` ```SQL``` ```PyTorch``` ```transformers``` ```scikit-learn``` ```fastText``` ```NumPy``` ```pandas``` ```Google ADK``` ```LangChain``` ```vLLM``` ```Triton Inference Server``` ```FAISS``` ```Qdrant``` ```FastAPI``` ```gRPC``` ```asyncio``` ```Pydantic``` ```SciPy``` ```joblib``` ```aiogram``` ```Kafka``` ```Redis``` ```PostgreSQL``` ```ClickHouse``` ```SQLAlchemy``` ```Docker``` ```Git``` ```CI/CD``` ```Prometheus``` ```Grafana```
